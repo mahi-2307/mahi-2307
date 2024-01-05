@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahi-2307
 - 👀 I’m interested in ...Fullstack Development
-- 🌱 I’m currently learning ...python,Docker
+
 - 📫 Reach me on linkedin : https://www.linkedin.com/in/mahidhar-reddy-katam-a2b35a24a/
 
 <!---
